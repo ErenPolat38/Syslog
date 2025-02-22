@@ -1,6 +1,4 @@
-Harika, şimdi projeniz için standartlara uygun bir README dosyası hazırlayalım. İşte önerdiğim README bölümü:
 
-```markdown
 # Syslog Reader
 
 Bu proje, bir syslog dosyasını okuyarak bağlı liste yapısında saklayan ve ekrana yazdıran bir C programıdır.
